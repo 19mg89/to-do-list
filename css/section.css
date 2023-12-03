@@ -4,13 +4,13 @@
     box-shadow: 0 0 5px #ddd;
 }
 
-.section_header {
+.section__header {
     font-size: 20px;
     padding: 20px;
     margin: 0;
     border-bottom: 1px solid #ddd;
 }
 
-.section_body {
+.section__body {
     padding: 20px;
 }
