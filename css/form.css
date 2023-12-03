@@ -15,17 +15,17 @@
     border: 1px solid #ddd;
 }
 
-.form_button {
+.form__button {
     padding: 10px;
     background: hsl(180, 100%, 25%);
     color: white;
     border: none;
 }
 
-.form_button:hover {
+.form__button:hover {
     background: hsl(180, 100%, 30%);
 }
 
-.form_button:active {
+.form__button:active {
     background: hsl(180, 100%, 35%);
 }
